@@ -1,4 +1,4 @@
-name = "email_worker_parser"
+name = "tvemail"
 main = "src/index.js"
-compatibility_date = "2022-12-05"
+compatibility_date = "2024-11-19"
 usage_model = "unbound"
